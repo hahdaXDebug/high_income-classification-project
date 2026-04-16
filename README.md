@@ -9,7 +9,7 @@ The dataset used is the Adult Census Income dataset of 1994, sourced from the UC
 ## Requirements to run
 * **Python 3.13.3 or above:**
 
-* * **Libraries:**
+* **Libraries:**
   * NumPy
   * Pandas
   * Matplotlib
